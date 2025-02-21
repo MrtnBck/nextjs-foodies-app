@@ -1,7 +1,7 @@
-export default function SharePage() {
+export default function ShareMealPage() {
   return (
     <div>
-      <h1>Share</h1>
+      <h1>ShareMeal</h1>
       <p>Coming soon...</p>
     </div>
   );
